@@ -1,0 +1,11 @@
+<use name="FWCore/Framework"/>
+<use name="FWCore/PluginManager"/>
+<use name="FWCore/ParameterSet"/>
+<use name="DataFormats/CLHEP"/>
+<use   name="DataFormats/PatCandidates"/>
+<use   name="DataFormats/Candidate"/>
+<use   name="DataFormats/METReco"/>
+<use   name="CondFormats/JetMETObjects"/>
+<use   name="JetMETCorrections/Objects"/>
+<use   name="CommonTools/UtilAlgos"/>
+<flags EDM_PLUGIN="1"/>
